@@ -1,0 +1,12 @@
+
+    Arithmetic
+    Relational
+    Logical
+    Bit wise
+    Conditional
+    Assignment
+    Increment/Decrement
+    Comma 
+
+Some of operators are same used in mathematics which makes it very intuitive, while some are very counter-intuitive and confusing. Understanding how internally operators works is also very very important.
+
