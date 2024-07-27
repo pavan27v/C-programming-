@@ -3,12 +3,12 @@
 void inset_at_position( int *arr , int pos , int n , int element)
 {
      // index is one less than position
-       int index = pos ;
+       int index = pos - 1 ;
        int i = 0;
 
        for(i = n ; i >= 0 ; --i)
        {
-       	    if( pos  == i )
+       	    if( index  == i )
 	    {
                arr[i + 1] = arr[i];
 	       arr[i] =  element;
