@@ -1,0 +1,19 @@
+Ethernet 
+Ethernet over fiber optics → long-distance communication (kilometers to tens of kilometers)
+Ethernet over copper (Cat5/Cat6) → short-distance communication (up to ~100 meters)
+Why fiber works for long distance
+Light signals travel farther without losing strength
+Immune to electromagnetic interference (important in aircraft & telecom)
+
+Higher bandwidth possible
+Why copper is short range
+Electrical signals get weaker over distance
+High interference sensitivity
+Heat & resistance cause noise
+
+What is a MAC Header?
+
+The MAC Header is the first part of an Ethernet frame.
+It contains information needed by network hardware (Network Interface Cards and Switches) to correctly deliver the frame to the destination machine on a LAN.
+
+
